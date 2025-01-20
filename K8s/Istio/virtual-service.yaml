@@ -5,7 +5,7 @@ metadata:
   namespace: robot-shop
 spec:
   hosts:
-  - "*"
+  - "web.robot-shop.com"
   gateways:
   - robotshop-gateway
   http:
