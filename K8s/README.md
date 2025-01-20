@@ -39,4 +39,3 @@ $ kubectl -n istio-system get svc istio-ingressgateway
 
 The above will display the IP address of the Istio gateway.
 
-**NOTE** The Instana agent only works with later versions of Istio.
