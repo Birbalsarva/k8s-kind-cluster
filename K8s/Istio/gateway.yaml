@@ -13,6 +13,6 @@ spec:
       protocol: HTTPS
     tls:
       mode: SIMPLE
-      credentialName: istio-tls-secret  # Must match the secret name
+      credentialName: istio-tls-secret  
     hosts:
     - "*"
